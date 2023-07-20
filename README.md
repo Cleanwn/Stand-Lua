@@ -9,4 +9,4 @@
 
 ## Download Path
 
-https://github.com/stevenjoezhang/live2d-widget.git
+https://duckerboy.lanzouq.com/b03vfj8xa
