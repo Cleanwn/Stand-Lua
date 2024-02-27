@@ -1,5 +1,5 @@
 # 用于Stand Menu的lua脚本
-# version 10.1
+# version 10.7
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
