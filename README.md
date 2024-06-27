@@ -1,5 +1,5 @@
 # 用于Stand Menu的lua脚本
-# version 11.3
+# daidai version 11.3
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
@@ -9,5 +9,5 @@
 ![](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
 ## Download Path
-
+--daidai lua/sakura lua
 https://www.cnsakura.top/
