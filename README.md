@@ -11,4 +11,4 @@
 ## Download Path
 --daidai lua/sakura lua
 
-https://.cnsakura.top/
+https://cnsakura.top/
