@@ -1,5 +1,5 @@
 # 用于Stand Menu的lua脚本
-# daidai version 12.9
+# daidai version 13.2
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
